@@ -1,4 +1,4 @@
-# Student-Result-s-Data-Analysis
+# Student-Results-Data-Analysis
 
 ## Overview
 This repository contains an analysis of a dataset consisting of various demographic and academic performance attributes of school students. The goal of this analysis is to provide insights that can help school management improve student outcomes.
